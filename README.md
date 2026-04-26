@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hammad Shamsi 👋
+
+Aspiring Data Analyst | SQL • Python • ML | Finance → Data
+
+---
+
+## 🚀 About Me
+- 💼 Background in Finance (FP&A)
+- 📊 Transitioning into Data Analytics
+- 🎯 Currently learning SQL, Python & Machine Learning
+
+---
+
+## 🛠️ Skills
+- Excel (Advanced)
+- SQL (Learning)
+- Python (Beginner)
+- Data Analysis
+---
+
+## 📌 Projects
+🚧 Coming soon...
+
 
 <!--
 **hammadanalytics02/hammadanalytics02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
