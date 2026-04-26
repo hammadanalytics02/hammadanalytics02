@@ -1,4 +1,4 @@
-# Hi, I'm Hammad Shamsi 👋
+# Hi, I'm Mohd Hammad Shamsi 👋
 
 Aspiring Data Analyst | SQL • Python • ML | Finance → Data
 
